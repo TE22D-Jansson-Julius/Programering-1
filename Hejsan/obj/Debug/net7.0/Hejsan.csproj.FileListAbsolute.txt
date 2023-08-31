@@ -1,0 +1,14 @@
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\bin\Debug\net7.0\Hejsan.exe
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\bin\Debug\net7.0\Hejsan.deps.json
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\bin\Debug\net7.0\Hejsan.runtimeconfig.json
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\bin\Debug\net7.0\Hejsan.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\bin\Debug\net7.0\Hejsan.pdb
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\obj\Debug\net7.0\Hejsan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\obj\Debug\net7.0\Hejsan.AssemblyInfoInputs.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\obj\Debug\net7.0\Hejsan.AssemblyInfo.cs
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\obj\Debug\net7.0\Hejsan.csproj.CoreCompileInputs.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\obj\Debug\net7.0\Hejsan.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\obj\Debug\net7.0\refint\Hejsan.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\obj\Debug\net7.0\Hejsan.pdb
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\obj\Debug\net7.0\Hejsan.genruntimeconfig.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Hejsan\obj\Debug\net7.0\ref\Hejsan.dll
